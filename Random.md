@@ -85,3 +85,12 @@ For senior engineers, this isn't that much different than what you probably do a
  $O(N \log N)$ 
  $$O(N \log N)$$
  $$ \frac{n(n+1)}{2} $$
+
+
+## Currency 
+1M = 10L = 9.3 cr
+10M = 1Cr = 93cr 
+100M = 10cr = 930cr 
+1B = 1000M = 100cr = 100cr * 93 = 9300cr INR
+
+
